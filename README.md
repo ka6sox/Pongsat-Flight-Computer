@@ -1,8 +1,8 @@
-bcc_sdr
+PongSat Flight Computer
 =======
 
-SDR daughtercard for BCC S6 FPGA board
+STM32L flight Computer for PongSats
 
-All Files and Programmes Copyright 2014 Eric Brombaugh and/or Tom King
+All Files and Programmes Copyright 2014 Tom King <ka6sox@gmail.com
 
-All Files and Programmes licensed under GPL v2 (See License.txt)
+All Files and Programmes licensed under GPL v2 or CCbySA 
