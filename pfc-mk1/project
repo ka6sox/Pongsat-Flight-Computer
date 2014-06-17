@@ -1,0 +1,4 @@
+schematics		pfc_mkI.sch
+output-name		pfc_MkI
+elements-dir	../pcb-elements/
+skip-m4
