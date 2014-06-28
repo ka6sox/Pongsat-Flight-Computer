@@ -3274,8 +3274,10 @@ T 50200 43050 8 10 0 1 0 3 1
 net=Vcc:1
 ]
 {
-T 50200 43050 5 10 1 1 0 3 1
-net=Vcc
+T 50200 43050 5 10 0 1 0 3 1
+net=Vcc:1
+T 50000 43000 5 10 1 1 0 0 1
+netname=Vcc
 }
 C 47800 42800 1 0 0 EMBEDDEDgeneric-power.sym
 [
@@ -3295,8 +3297,10 @@ T 48000 43050 8 10 0 1 0 3 1
 net=Vcc:1
 ]
 {
-T 48000 43050 5 10 1 1 0 3 1
-net=Vcc
+T 48000 43050 5 10 0 1 0 3 1
+net=Vcc:1
+T 47800 43000 5 10 1 1 0 0 1
+netname=Vcc
 }
 C 43800 48800 1 0 0 EMBEDDEDgeneric-power.sym
 [
@@ -3316,8 +3320,10 @@ T 44000 49050 8 10 0 1 0 3 1
 net=Vcc:1
 ]
 {
-T 44000 49050 5 10 1 1 0 3 1
-net=Vcc
+T 44000 49050 5 10 0 1 0 3 1
+net=Vcc:1
+T 43800 49000 5 10 1 1 0 0 1
+netname=Vcc
 }
 C 40500 42100 1 0 0 EMBEDDEDgeneric-power.sym
 [
@@ -3337,8 +3343,10 @@ T 40700 42350 8 10 0 1 0 3 1
 net=Vcc:1
 ]
 {
-T 40700 42350 5 10 1 1 0 3 1
-net=Vcc
+T 40700 42350 5 10 0 1 0 3 1
+net=Vcc:1
+T 40500 42300 5 10 1 1 0 0 1
+netname=Vcc
 }
 C 40100 43900 1 0 0 EMBEDDEDgeneric-power.sym
 [
@@ -3358,8 +3366,10 @@ T 40300 44150 8 10 0 1 0 3 1
 net=Vcc:1
 ]
 {
-T 40300 44150 5 10 1 1 0 3 1
-net=Vdda
+T 40300 44150 5 10 0 1 0 3 1
+net=Vdda:1
+T 40100 44100 5 10 1 1 0 0 1
+netname=Vdda
 }
 C 50600 49400 1 0 0 EMBEDDEDgeneric-power.sym
 [
@@ -3379,8 +3389,10 @@ T 50800 49650 8 10 0 1 0 3 1
 net=Vcc:1
 ]
 {
-T 50800 49650 5 10 1 1 0 3 1
-net=Vcc
+T 50800 49650 5 10 0 1 0 3 1
+net=Vcc:1
+T 50600 49600 5 10 1 1 0 0 1
+netname=Vcc
 }
 C 56300 48700 1 0 0 EMBEDDEDgeneric-power.sym
 [
@@ -3400,8 +3412,10 @@ T 56500 48950 8 10 0 1 0 3 1
 net=Vcc:1
 ]
 {
-T 56500 48950 5 10 1 1 0 3 1
-net=Vcc
+T 56500 48950 5 10 0 1 0 3 1
+net=Vcc:1
+T 56300 48900 5 10 1 1 0 0 1
+netname=Vcc
 }
 C 55500 42800 1 0 0 EMBEDDEDgeneric-power.sym
 [
@@ -3421,8 +3435,10 @@ T 55700 43050 8 10 0 1 0 3 1
 net=Vcc:1
 ]
 {
-T 55700 43050 5 10 1 1 0 3 1
-net=Vdda
+T 55700 43050 5 10 0 1 0 3 1
+net=Vdda:1
+T 55500 43000 5 10 1 1 0 0 1
+netname=Vdda
 }
 C 48600 47100 1 0 0 EMBEDDEDgeneric-power.sym
 [
@@ -3442,6 +3458,8 @@ T 48800 47350 8 10 0 1 0 3 1
 net=Vcc:1
 ]
 {
-T 48800 47350 5 10 1 1 0 3 1
-net=Vcc
+T 48800 47350 5 10 0 1 0 3 1
+net=Vcc:1
+T 48600 47300 5 10 1 1 0 0 1
+netname=Vcc
 }
